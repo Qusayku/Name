@@ -1,0 +1,6 @@
+# Name
+
+Heyho, dies ist ein kleiner aber feiner Namen Ersteller.
+Zahlen von 1-100 enthalten. Lass dir in kurz und schnell Namen 
+wie User 1, User 2, oder User 3 erstellen welche du direkt vom 
+Terminal angezeigt bekommst. Lass es dir gut gehen ;)
